@@ -1,4 +1,4 @@
-[![MasterHead](https://www.atriauniversity.edu.in/wp-content/uploads/2023/03/image1.jpg)]
+![MasterHead](https://www.atriauniversity.edu.in/wp-content/uploads/2023/03/image1.jpg)
 <h1 align="center">Hi 👋, I'm Camila Cordero</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src=https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112>
